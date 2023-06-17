@@ -1,0 +1,19 @@
+{
+  "name": "files",
+  "version": "0.0.1",
+  "description": "personal workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauldmurphy/.files.git"
+  },
+  "author": "Paul Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pauldmurphy/.files/issues"
+  },
+  "homepage": "https://github.com/pauldmurphy/.files#readme"
+}
